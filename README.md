@@ -4,7 +4,7 @@ This is an important title
 It is just this
 1. Item 1
 2. Item 2
-- [ ] This is it
+- [x] This is it
 - [X] This is not it
 
 **This Is A Big It!**
